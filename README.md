@@ -5,7 +5,7 @@ This repository hosts my professional portifolio, highlighting my experience in 
 
 ## Technical Stack
 - **Hosting:** Github pages
-- **Framework:** HTML5/CSS3 (Moving to Hugo)
+- **Framework:** HTML5 / CSS3: Semantic markup and custom responsive design
 - **CI/CD:** Github Actions for automated deployment
 
 ## Live Site
